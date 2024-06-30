@@ -28,7 +28,8 @@ Recommended tip word: You can write the desired materials or not, starting with 
 6. set the controlnet weight as around 1
 7. set CKPT as LWarchi or dreamshaper as whatever you like
 8. Generate
-   
+
+
 1. 下载模型： https://huggingface.co/archifancy/Material_Control_Controlnet/tree/main
 2. 将模型放入“stablediffusion-models-ControlNet”文件夹
 3. 使用我标识的颜色绘制控制图像（#76380b（木材），#cd5c5c（砖块），#4c4c4c（混凝土），#00bfff（玻璃），和#c0c0c0（金属））
