@@ -24,10 +24,19 @@ Recommended tip word: You can write the desired materials or not, starting with 
 2. put the model into "stablediffuion-models-ControlNet" folder
 3. paint the control image with the color I identified(# 76380b (wood), # cd5c5c (brick), # 4c4c4c (concrete), # 00bfff (glass), and # c0c0c0 (metal))
 4. set the prepared control image as the input of controlent(both webui and comfyui work fine)
-5. choose preprocesor as "none" and choose the controlnet model as the downloaded mode
+5. choose preprocesor as "none" and choose the controlnet model as the downloaded model
 6. set the controlnet weight as around 1
 7. set CKPT as LWarchi or dreamshaper as whatever you like
-8. Generate and get ready for the controlling
+8. Generate
+   
+1.下载模型： https://huggingface.co/archifancy/Material_Control_Controlnet/tree/main
+2.将模型放入“stablediffusion-models-ControlNet”文件夹
+3.使用我标识的颜色绘制控制图像（#76380b（木材），#cd5c5c（砖块），#4c4c4c（混凝土），#00bfff（玻璃），和#c0c0c0（金属））
+4.将准备好的控制图像设置为ControlNet的输入（WebUI和ComfyUI都可以正常工作）
+5.选择预处理器为“none”，并选择下载的ControlNet模型
+6.将ControlNet权重设置为大约1
+7.将CKPT设置为LWarchi或dreamshaper，根据您的喜好选择
+8.生成
 
 # 3. Examples:
 
