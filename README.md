@@ -20,7 +20,7 @@ Recommended tip word: You can write the desired materials or not, starting with 
 
 
 # 2. How to use:
-1. download the model here:
+1. download the model here:https://huggingface.co/archifancy/Material_Control_Controlnet/tree/main
 2. put the model into "stablediffuion-models-ControlNet" folder
 3. paint the control image with the color I identified(# 76380b (wood), # cd5c5c (brick), # 4c4c4c (concrete), # 00bfff (glass), and # c0c0c0 (metal))
 4. set the prepared control image as the input of controlent(both webui and comfyui work fine)
